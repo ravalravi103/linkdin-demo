@@ -1,0 +1,45 @@
+.feed{
+    flex: .4;
+    background-color:#FFFFFF;
+    padding:10px;
+    border-radius: 5px;
+}
+.feed__input-box{
+    display: flex;
+    padding:10px
+}
+
+.feed__input-btn,
+.feed__input-btn:hover
+{
+    margin-left: 10px;
+    width: 80%;
+    text-align: left;
+    border-radius: 50px;
+    padding:20px;
+    background-color:#EBEBEB;
+}
+.feed__input-icon{
+    display: flex;
+    justify-content:space-between;
+    padding :10px
+}
+
+
+
+/* Post Style */
+.Post__List{
+   
+}
+
+.post__header{
+    display: flex;
+}
+.post__header-userDesc{
+    margin-left: 10px;
+}
+.userName{margin: 0;}
+.user-skills{font-weight: 300;}
+.post__desc{
+    overflow: hidden;
+}

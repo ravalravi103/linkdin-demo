@@ -1,0 +1,27 @@
+.CreateModelContent{
+    display:flex;
+    flex-direction:column;
+}
+.create__model-top{
+    display:flex;
+    align-items:center; 
+    margin-bottom: 10px;
+    flex: 0.2;
+}
+.text-box{
+    height:100px
+}
+.useName{
+    margin-left: 10px;
+}
+.createPost__input-box{
+    outline:none;
+    border:none;
+    background: none;
+    width:100%;
+    font-size:16px
+}
+.myIcon{
+    display:flex;
+    justify-content:flex-start;
+}

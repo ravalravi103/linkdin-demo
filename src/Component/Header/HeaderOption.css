@@ -1,0 +1,16 @@
+.headerOption{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:#4d4949;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.headerOption:hover{
+    color:#000;
+}
+
+.headerOption__title{
+    font-weight:500;
+}

@@ -1,0 +1,11 @@
+.FeedIcon{
+    display: flex;
+    padding:10px 30px
+}
+.FeedIcon:hover{
+    background-color:#F3F2EF;
+    border-radius: 10px;
+}
+.FeedIcon__text{
+    margin-left: 5px;
+}
